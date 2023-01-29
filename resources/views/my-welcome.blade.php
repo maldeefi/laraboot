@@ -13,7 +13,15 @@
                     </h4>
                 </div>
                 <div class="card-body">
-
+                    <table class="table">
+                        <thead>
+                            <th scope="col">#</th>
+                            <th scope="col">#</th>
+                            <th scope="col">#</th>
+                            <th scope="col">#</th>
+                            <th scope="col">#</th>
+                        </thead>
+                    </table>
                 </div>
             </div>
         </div>
